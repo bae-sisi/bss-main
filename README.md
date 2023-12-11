@@ -21,6 +21,14 @@ git clone https://github.com/bae-sisi/bss-main.git
 cd bss-main/
 ```
 
+```bash
+git clone https://github.com/bae-sisi/bss-server.git
+```
+
+```bash
+git clone https://github.com/bae-sisi/bss-client.git
+```
+
 #### Step 2: Run the Backend Server
 
 In your terminal, run the following command to start the backend server:
