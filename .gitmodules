@@ -1,0 +1,6 @@
+[submodule "bss-client"]
+	path = bss-client
+	url = https://github.com/bae-sisi/bss-client.git
+[submodule "bss-server"]
+	path = bss-server
+	url = https://github.com/bae-sisi/bss-server.git
